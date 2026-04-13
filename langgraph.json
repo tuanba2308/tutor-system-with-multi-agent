@@ -1,6 +1,6 @@
 {
   "graphs": {
-    "arxiv-agent": "agent.py:make_arxiv_agent"
+    "arxiv-agent": "agent:make_arxiv_agent"
   },
   "dependencies": ["."],
   "checkpointer": {
