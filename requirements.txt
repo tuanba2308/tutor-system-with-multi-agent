@@ -1,0 +1,9 @@
+langgraph
+langgraph-cli
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langsmith
+requests
+python-dotenv

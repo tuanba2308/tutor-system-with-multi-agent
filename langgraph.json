@@ -1,0 +1,9 @@
+{
+  "graphs": {
+    "arxiv-agent": "agent.py:make_arxiv_agent"
+  },
+  "dependencies": ["."],
+  "checkpointer": {
+    "type": "memory"
+  }
+}
